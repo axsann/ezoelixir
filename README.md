@@ -4,8 +4,8 @@
 
 
 ## Build
-
 ```
+$ mix deps.get
 $ mix escript.build
 ```
 ## Usage
