@@ -1,5 +1,4 @@
 defmodule Ezoelixir do
-  import FeederEx
   def main(args) do
     show()
   end
