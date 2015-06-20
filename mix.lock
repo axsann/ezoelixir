@@ -1,0 +1,7 @@
+%{"feeder": {:hex, :feeder, "1.4.6"},
+  "feeder_ex": {:git, "https://github.com/manukall/feeder_ex.git", "d9c7fed96c27c6ce33dfdeacd1e9081381ff0645", []},
+  "hackney": {:hex, :hackney, "1.1.0"},
+  "httpoison": {:hex, :httpoison, "0.7.0"},
+  "idna": {:hex, :idna, "1.0.2"},
+  "rss": {:hex, :rss, "0.1.0"},
+  "ssl_verify_hostname": {:hex, :ssl_verify_hostname, "1.0.5"}}
