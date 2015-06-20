@@ -5,6 +5,8 @@
 
 ## Build
 ```
+$ git clone https://github.com/axsann/ezoelixir.git
+$ cd ezoelixir
 $ mix deps.get
 $ mix escript.build
 ```
