@@ -7,20 +7,15 @@
 
 ## Build
 
-- Run on Ubuntu/Debian, Please install following.
-
-[Ubuntu 14.04 (Linux Mint 17)にElixirをインストールする方法](http://asakandata.hatenablog.com/entry/2015/06/20/005405)
-```
-$ sudo apt install erlang
-$ sudo apt install erlang-dev
-$ sudo apt install erlang-xmerl
-```
 ```
 $ git clone https://github.com/axsann/ezoelixir.git
 $ cd ezoelixir
 $ mix deps.get
 $ mix escript.build
 ```
+- When run on Ubuntu/Debian, Please do following.
+[Ubuntu 14.04 (Linux Mint 17)にElixirをインストールする方法](http://asakandata.hatenablog.com/entry/2015/06/20/005405)
+
 ## Usage
 - Show questions and answers
 
