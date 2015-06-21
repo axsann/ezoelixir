@@ -7,6 +7,7 @@
 
 ## Build
 - Run on Ubuntu/Debian, Please install follow.
+- [ubuntu](http://asakandata.hatenablog.com/entry/2015/06/20/005405)
 ```
 $ sudo apt install erlang-dev
 $ sudo apt install erlang-xmerl
