@@ -6,6 +6,11 @@
 
 
 ## Build
+- Run on Ubuntu/Debian, Please install follow.
+```
+$ sudo apt install erlang-dev
+$ sudo apt install erlang-xmerl
+```
 ```
 $ git clone https://github.com/axsann/ezoelixir.git
 $ cd ezoelixir
