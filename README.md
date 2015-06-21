@@ -8,6 +8,7 @@
 ## Build
 
 - Run on Ubuntu/Debian, Please install following.
+
 [Ubuntu 14.04 (Linux Mint 17)にElixirをインストールする方法](http://asakandata.hatenablog.com/entry/2015/06/20/005405)
 ```
 $ sudo apt install erlang
