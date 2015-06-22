@@ -13,8 +13,7 @@ $ cd ezoelixir
 $ mix deps.get
 $ mix escript.build
 ```
-- When run on Ubuntu/Debian, Please do following.
-[Ubuntu 14.04 (Linux Mint 17)にElixirをインストールする方法](http://asakandata.hatenablog.com/entry/2015/06/20/005405)
+- If Ubuntu, see [here](http://asakandata.hatenablog.com/entry/2015/06/20/005405)(in Japanese) for elixir installation instructions.
 
 ## Usage
 - Show questions and answers
